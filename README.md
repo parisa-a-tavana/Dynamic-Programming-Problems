@@ -3,10 +3,13 @@
 an agent can move left, right, or diagonal in a 6*6 grid. It also should not run into the barriers. We want to count all the unique ways the agent can move from A to B.
 <br>
 
-![Image 1](images/system.jpg)
+![Image 1](images/grid.jpg)
 <br> 
 
-![Image 1](images/system.jpg)
+![Image 2](images/grid_algorithm.jpg)
+<br> 
+
+![Image 3](images/grid_final_answer.jpg)
 <br> 
 <br>
 # Edit Distance
