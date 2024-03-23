@@ -63,3 +63,22 @@ We want to find the longest common subsequence of 2 stirngs.
 
 ![Image 13](images/sequence_answer2.jpg)
 <br> 
+<br> 
+<br>
+# Calculate Sum by Restating the Problem
+<br>
+<br>
+We want to find the sum of the sequence below:
+<br>
+
+![Image 14](images/find_sum.jpg)
+<br>
+
+![Image 15](images/sum_restate.jpg)
+<br>
+
+![Image 16](images/sum_algorithm.jpg)
+<br>
+
+![Image 17](images/sum_answer.jpg)
+<br>
